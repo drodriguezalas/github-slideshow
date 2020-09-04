@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+    "Vitamina C is spanish for vitamin yes"
 Use the left arrow to go back!
